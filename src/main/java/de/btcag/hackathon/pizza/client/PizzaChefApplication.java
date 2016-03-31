@@ -1,4 +1,4 @@
-package de.btcag.hackathon;
+package de.btcag.hackathon.pizza.client;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

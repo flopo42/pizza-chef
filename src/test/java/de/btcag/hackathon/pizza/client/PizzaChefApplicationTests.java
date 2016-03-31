@@ -1,5 +1,6 @@
-package de.btcag.hackathon;
+package de.btcag.hackathon.pizza.client;
 
+import de.btcag.hackathon.pizza.client.PizzaChefApplication;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.SpringApplicationConfiguration;
